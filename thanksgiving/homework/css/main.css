@@ -1,0 +1,21 @@
+/*I chose orange as the background color to present a Thanksgiving theme.*/
+body {
+	background-color: orange;
+}
+
+/*I want my h1 to be nice and center and standout with the underline.*/
+h1 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+/*I want my well-wishes centered.*/
+p {
+	text-align: center;
+}
+
+/*My images are nice and small, but still visible.*/
+img {
+	height: 100px;
+	width: 100px;
+}
